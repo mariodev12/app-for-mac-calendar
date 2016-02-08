@@ -1,6 +1,6 @@
 'use strict';
 var showBrowser = {
-    tvmazeAPi: 'http://localhost:8500/traktApi',
+    tvmazeAPi: 'http://46.101.157.91:8500/traktApi',
     tvMazeApiSearch: 'http://api.tvmaze.com/search/shows?q=',
     listShows: [],
     events: [],
